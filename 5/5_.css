@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+#formulario {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+#boton {
+  background-color: #8b5cf6;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#mensaje {
+  font-weight: bold;
+} 

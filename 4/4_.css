@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+#formulario {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+#lista {
+  list-style: none;
+  padding: 0;
+  width: 300px;
+}
+
+#lista li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.btnBorrar {
+  background-color: #8b5cf6;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 4px 8px;
+  cursor: pointer;
+}

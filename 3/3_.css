@@ -1,0 +1,11 @@
+#cajita {
+  background-color: #f3f6fa; /* Color original (gris muy clarito) */
+  width: 250px;
+  padding: 40px;
+  text-align: center;
+  border-radius: 10px;
+  font-family: sans-serif;
+  cursor: pointer;
+  /* El borde es solo para que se parezca al ejemplo de la imagen */
+  border: 1px solid #e2e8f0; 
+}
